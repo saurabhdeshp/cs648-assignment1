@@ -1,0 +1,49 @@
+body{
+    margin: 20px
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #111;
+    color: white;
+    font-weight: 200;
+}
+
+.rootCont{
+    display: flex;
+    justify-content: center;
+}
+
+.mainCont{
+    max-width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.textCont{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.githubButton{
+    padding-top: 5%;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    cursor: pointer;
+}
