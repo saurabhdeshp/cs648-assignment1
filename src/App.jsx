@@ -5,7 +5,7 @@ const App = () =>(
                 <h3>Saurabh Deshpande</h3>
             </div>
             <div className="textCont">
-                <img className="image" src="saurabh_seattle.jpeg" width="200" height="200"></img>
+                <img className="image" src="/images/saurabh_seattle.jpeg" width="200" height="200"></img>
             </div>
             <div className="textCont">
                 Hello, I am a CS grad student at San Diego State University. 

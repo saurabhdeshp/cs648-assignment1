@@ -8,7 +8,7 @@ const App = () => /*#__PURE__*/React.createElement("div", {
   className: "textCont"
 }, /*#__PURE__*/React.createElement("img", {
   className: "image",
-  src: "saurabh_seattle.jpeg",
+  src: "/images/saurabh_seattle.jpeg",
   width: "200",
   height: "200"
 })), /*#__PURE__*/React.createElement("div", {
